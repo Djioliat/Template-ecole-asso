@@ -1,5 +1,5 @@
 # Template-ecole-asso
-Template association parent d'élèves afin de pouvoir disposer d'une application web pour diffuser les informations des évènements !  
+Template association parent d'élèves afin de pouvoir disposer d'une application web pour diffuser les informations des événements !  
 Votre participation est la bienvenue :)
 
 # Installation 
