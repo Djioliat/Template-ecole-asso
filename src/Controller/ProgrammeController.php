@@ -32,7 +32,7 @@ class ProgrammeController extends AbstractController
         ]);
     }
 
-    #[Route('/programme/{id}/edit', name: 'app_programme_edit')]
+    #[Route('/animation/{id}/edit', name: 'app_programme_edit')]
     public function edit(Request $request, EntityManagerInterface $entityManager, $id): Response
     {
         $programme = $entityManager->getRepository(Programme::class)->find($id);
